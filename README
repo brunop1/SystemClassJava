@@ -1,0 +1,44 @@
+*********************************************************************************************************************************************
+*						   Autores: Bruno Lourenço
+*								João Batista		
+*				
+*********************************************************************************************************************************************
+*
+*     												                                                                                                      
+*     O presente tutorial foi criado no contexto da unidade curricular de Programação 1 do curso de                                                
+*     Multimedia do Instituto Superior Miguel Torga, unidade esta leccionada pelo docente Frederico                                               
+*     Fonseca. 										                                                                                                      
+*      												                                                                                                      
+*     Este tutorial tem como objectivo descrever e demonstrar as principais funcionalidades da classe System na linguagem de                                                     
+*     programação Java. 								                                                                                                      
+*     											                                                                                                               
+*      Fontes:										                                                                                                      
+*												                                                                                                      
+*	▪	mkyoung (2008). How To Read Input From Console – Java. 	                                                                                                                                                  
+*       http://www.mkyong.com/java/how-to-read-input-from-console-java/
+*      
+*	▪	Oracle. Formatting.
+*	http://docs.oracle.com/javase/tutorial/essential/io/formatting.html
+*
+*	▪	Create BufferedReader from System.in
+*	http://www.java2s.com/Code/Java/File-Input-Output/CreateBufferedReaderfromSystemin.htm
+*
+*  ▪	  tutorialspoint. Java - Streams, Files and I/O
+*	http://www.tutorialspoint.com/java/java_files_io.htm
+*
+*	▪	tutorialspoint. Java.util.Scanner.nextInt() Method
+*	http://www.tutorialspoint.com/java/util/scanner_nextint.htm
+*
+*   ▪	  Jakob Jenkov. Java IO: System.in, System.out, and System.error
+*	http://tutorials.jenkov.com/java-io/system-in-out-error.html
+*
+*	▪	Jack Wilson (2013). Java printf() Method Quick Reference
+*	http://web.cerritos.edu/jwilson/SitePages/java_language_resources/*Java_printf_method_quick_reference.pdf
+*
+*	▪	Dale, Nell B. Scanner class.						                                                                                             
+*	http://www.cs.utexas.edu/users/ndale/Scanner.html		                                                                                             
+*												                                                                                             
+*	▪	cowbird (2009). Is there a good reason to use “printf” instead of “print” in java?.                                                           
+*	http://stackoverflow.com/questions/548249/is-there-a-good-reason-to-use-printf-instead-of-print-*in-java                      
+*												                                                                                             
+********************************************************************************************************************************************
